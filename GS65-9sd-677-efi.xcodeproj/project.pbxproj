@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B5686BA8292D1F25001EEACD /* EFI */ = {isa = PBXFileReference; lastKnownFileType = folder; path = EFI; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B5686BA1292D1EFE001EEACD = {
+			isa = PBXGroup;
+			children = (
+				B5686BA8292D1F25001EEACD /* EFI */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B5686BA2292D1EFE001EEACD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = B5686BA5292D1EFE001EEACD /* Build configuration list for PBXProject "GS65-9sd-677-efi" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B5686BA1292D1EFE001EEACD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B5686BA6292D1EFE001EEACD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B5686BA7292D1EFE001EEACD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B5686BA5292D1EFE001EEACD /* Build configuration list for PBXProject "GS65-9sd-677-efi" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5686BA6292D1EFE001EEACD /* Debug */,
+				B5686BA7292D1EFE001EEACD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B5686BA2292D1EFE001EEACD /* Project object */;
+}
